@@ -2,7 +2,7 @@
 
 Reviewed **17 October 2026**, by the secondary-category research agent, independently of the lead's EU/evidence synthesis and the focus/energy and relaxation/sleep/CBD agents. This is a targeted review of decision-changing claims, not a complete systematic review, legal opinion or replication of every web extraction. The reviewer's own secondary-category research is assessed separately in [the other independent review](secondary-independent-review.md).
 
-Reviewed: [integrated report](../report.md), [EU/Czech evidence memo](eu-czech-and-evidence.md), [focus/energy memo](focus-energy.md), [relaxation/sleep/CBD memo](relax-sleep-cbd.md), their product datasets, and [validation plan](validation-and-outsourcing-plan.md). The lead retains responsibility for final integration and publication.
+Reviewed: [integrated report](../report.md), [EU/Czech evidence memo](eu-czech-and-evidence.md), [focus/energy memo](focus-energy.md), [relaxation/sleep/CBD memo](relax-sleep-cbd.md), and their product datasets. The lead retains responsibility for final integration and publication.
 
 ## Findings requiring refinement
 
@@ -11,7 +11,7 @@ Reviewed: [integrated report](../report.md), [EU/Czech evidence memo](eu-czech-a
 | IR01 / medium | The magnesium discussion should include an EU safety reference because the shortlist includes VYBES with **300 mg elemental magnesium per bottle**. A US label is not a European target dose. EFSA/SCF's **250 mg/day UL** covers readily dissociable magnesium salts and compounds such as MgO in supplements, water or added foods, excluding naturally present magnesium. It is not a blanket statutory maximum per drink, and the exact form and total exposure need assessment. | Add this scope and cumulative-intake caveat to the evidence memo; retain VYBES as a commercial/positioning benchmark rather than a copied formula. **Lead accepted before publication.** Reopened [EFSA summary, version 11, August 2025, table 1 footnote g](https://www.efsa.europa.eu/sites/default/files/2024-05/ul-summary-report.pdf) and [VYBES exact SKU](https://idrinkvybes.com/products/strawberry-lavender), accessed 17 October 2026. |
 | IR02 / low | The 2025 lion's mane trial already used a **250 ml liquid**: 3 g of a specified 10:1 extract in water/lemon squash. Describing its limitations only as a different delivery form risks implying that all relevant evidence is from capsules. Its small sample and lack of global cognitive/mood benefit remain limitations. | State that liquid administration was used, then distinguish the exact extract/dose and freshly prepared study beverage from a processed, stored commercial RTD. **Lead accepted before publication.** Reopened [2025 trial, published 10 April 2025, methods and results](https://pmc.ncbi.nlm.nih.gov/articles/PMC12018234/), accessed 17 October 2026. |
 
-No critical finding or reason to reverse the recommended sequence of low-cost validation was identified. The two refinements above improve the formulation-risk and delivery-transfer assessment; neither provides efficacy evidence for a particular commercial drink.
+No critical error in the reviewed evidence synthesis was identified. The two refinements above improve the formulation-risk and delivery-transfer assessment; neither provides efficacy evidence for a particular commercial drink.
 
 ## Material claims independently checked
 
@@ -26,19 +26,17 @@ No critical finding or reason to reverse the recommended sequence of low-cost va
 | **UPDATE caffeine-free wording** | Reopened [official FAQ](https://drinkupdate.com/pages/faqs). Zero caffeine is explicitly distinguished from paraxanthine stimulation; the taxonomy does not call this genuinely non-stimulant. Claims about no crashes or sleep disruption remain brand assertions, not conclusions of this review. |
 | **BRĒZ Dream variant** | Reopened [Dream product page](https://www.drinkbrez.com/products/dream): 355 ml, $20 for four cans, add-to-cart, hemp-free claim and ingredient list. The listing is separate from the site's THC range. The dataset correctly leaves active doses unresolved and does not borrow THC-line success. |
 | **Recess Original CBD variant** | Reopened [Blackberry Chai](https://takearecess.com/shop/sparkling-water/blackberry-chai): 12 oz, 10 mg CBD label, broad-spectrum hemp and less-than-0.3%-THC wording. The report correctly does not equate this concentration wording with proven zero THC per can, verified current checkout, EU legality or the success of Recess Mood. |
-| **Hiyo requested source** | Reopened [Fitt Insider, 5 October 2026](https://insider.fitt.co/hiyo-raises-20-8m-to-scale-social-tonics/). $20.8m financing, projected million-plus cases and intended 13,000-plus doors are correctly separated from achieved audited sell-through. Hiyo does not dominate the sample or ranking. |
+| **Hiyo requested source** | Reopened [Fitt Insider, 5 October 2026](https://insider.fitt.co/hiyo-raises-20-8m-to-scale-social-tonics/). $20.8m financing, projected million-plus cases and intended 13,000-plus doors are correctly separated from achieved audited sell-through. Hiyo does not dominate the sample. |
 
 All sources above were accessed on 17 October 2026. New primary review evidence should be included in the lead's consolidated source register; overlapping sources already have workstream source entries.
 
-## Integrated decision and scope review
+## Integrated evidence and scope review
 
 - **Taxonomy:** suitable for the brief. Focus/productivity, general alertness, caffeine-free stimulation, calm, social, sleep, hydration, gut health, protein and CBD are distinct. Positioning is not treated as proof of effects. The protein/energy crossover is counted once.
-- **Opportunity ranking:** clearly labeled ordinal analyst judgment, with stated criteria and conditions that could change ranks. Rank 1 is a hypothesis for testing a work occasion, not a preselected commercial formula. Non-stimulant focus remains a separate option. The lower rank for generic high-caffeine energy reflects founder differentiation constraints, not a claim that consumer demand is small.
-- **CBD gate:** appropriate. Demand, efficacy, sourcing, safety, authorization and claims are treated independently, and the main product remains CBD-free. The report does not portray regulatory uncertainty as proof of no consumer interest, or a supplier application as approval.
+- **CBD segment:** demand, efficacy, sourcing, safety, authorization and claims are treated independently. The project brief specifies a CBD-free primary concept. The report does not portray regulatory uncertainty as proof of no consumer interest, or a supplier application as approval.
 - **Chronology and phase labels:** the report distinguishes established brands, new flavors, distribution events, contextual older products, preorder and withdrawal. In particular, the Beyond Protein + Energy page's preorder status overrides press wording that might imply completed sales; VYBES' CBD exit is a documented negative case, while stockouts are not labeled discontinuations.
 - **Demand versus commercial evidence:** US survey interest is not converted into Czech purchasing behavior; can-volume evidence is distinguished from company valuation, fundraising and supplement-line success. The report explicitly labels lack of Czech demand evidence.
 - **Eligibility:** sampled tables use finished cans/bottles, including qualifying bottled shots. Powders, gummies and pouches are exclusions or contextual warnings rather than benchmark rows. Functional coffee/tea coverage is explicitly a gap, not an inference of absent competition.
-- **Validation:** proposed counts, taste thresholds and staged spending gates are labeled proposals. Interviews, sensory testing, supplier quotes and efficacy trials are not claimed to have occurred. Caffeine-matched comparison is correctly required if added cognitive benefit becomes central.
 
 Residual limitations: this review did not audit all original dates, every current retailer inventory state, every ingredient's full EU authorization history, all source-register metadata or all exact-SKU prices. Final file counts, relative links, arithmetic and remote publishing checks belong to the lead integration pass. No unresolved observation in this targeted review justifies presenting a formula as legally cleared or clinically validated.
 
@@ -46,6 +44,12 @@ Residual limitations: this review did not audit all original dates, every curren
 
 Completed 17 October 2026. **IR01 and IR02 implemented** in the evidence memo: magnesium UL scope/cumulative exposure is explicit, and the 2025 lion's mane study is correctly described as liquid administration. L27 adds the magnesium source. VYBES remains a positioning benchmark, not a dose recommendation.
 
-The focus/energy agent also independently read the integrated report for category balance, chronology and recommendation logic. No material blocker was identified. Its two wording corrections were implemented: Magic Mind FREE tests demand without **caffeine**, rather than implying absence of all stimulation; Red Bull's verified **8.4 fl oz** is retained with only an explicitly approximate ml conversion. The term **22 recent-event records** remains deliberate: authorization and rollout announcements do not prove paid traction.
+The focus/energy agent also independently read the integrated report for category balance, chronology and interpretation. No material blocker was identified. Its two wording corrections were implemented: Magic Mind FREE is described as without **caffeine**, rather than implying absence of all stimulation; Red Bull's verified **8.4 fl oz** is retained with only an explicitly approximate ml conversion. The term **22 recent-event records** remains deliberate: authorization and rollout announcements do not prove paid traction.
 
 Final source/CSV/link checks are recorded in the [publication checks](publication-checks.md). These checks do not turn the targeted reviews into an exhaustive source audit.
+
+## Research-only scope revision
+
+Following the user’s clarification, launch recommendations, category opportunity rankings, experiments and development plans were removed from the report and supporting notes. The focus/energy agent independently identified advisory passages in all four workstream/evidence memos; the lead recast these as observations or evidence gaps. This scope edit retains the original research cut-off, product records, sources and factual review findings.
+
+The same reviewer then checked the revised report and all four memos and found no remaining business/product recommendations or unintended loss of substantive evidence. Remaining methodological caveats concern classification, normalization and unsupported inference.

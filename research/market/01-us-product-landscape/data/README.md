@@ -5,7 +5,6 @@ All product records have a research date of **2026-10-17** and US geographic sco
 ## Files
 
 - [product-landscape.csv](product-landscape.csv): normalized master, 31 records, one row per exact product/variant or explicitly named retail assortment. This is the preferred file for comparison.
-- [opportunity-ranking.csv](opportunity-ranking.csv): eight ranked category hypotheses plus a separately held CBD extension. Ordinal analyst judgment, not measured market scores.
 - [focus-energy.csv](focus-energy.csv), [relax-sleep-cbd.csv](relax-sleep-cbd.csv), [secondary-categories.csv](secondary-categories.csv): original workstream detail, with accepted review corrections applied. Different schemas preserve workstream-specific evidence. They are not additional products to add to the master count.
 
 ## Master fields

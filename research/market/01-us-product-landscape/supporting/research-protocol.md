@@ -1,6 +1,6 @@
 # Research protocol and execution record
 
-Research cut-off: **17 October 2026**, Europe/Prague. This is a public-source commercial landscape, not a systematic clinical review or a legal opinion on an approved final formula.
+Research cut-off: **17 October 2026**, Europe/Prague. This is a public-source commercial landscape, not a systematic clinical review or a legal opinion on an approved final formula. Following the user’s clarification, the deliverable is limited to research: recommendations, opportunity ranking and proposed validation/production plans have been removed; product data and sources are retained.
 
 ## Repository review and ownership
 
@@ -8,7 +8,7 @@ The local remote resolved to `https://github.com/petrknoll95/social-tonic.git`. 
 
 ## Work plan and file ownership
 
-1. **Lead:** repository inspection, taxonomy and methods; EU/Czech regulatory and scientific transferability assessment; integrate findings, score opportunities, validate data/links, publish and verify remotely.
+1. **Lead:** repository inspection, taxonomy and methods; EU/Czech regulatory and scientific transferability assessment; integrate findings, validate data/links, publish and verify remotely.
 2. **Parallel agent A — focus/energy:** independently discover cognitive, productivity and general alertness products, mature leaders and challengers. Own `data/focus-energy.csv`, `supporting/focus-energy.md`, and its source CSV only.
 3. **Parallel agent B — relaxation/sleep/CBD:** social, relaxation and sleep products, with CBD and THC distinctions; verify the supplied Hiyo lead without using it as the whole-market filter. Own its corresponding three files only.
 4. **Parallel agent C — secondary categories:** hydration, recovery, gut health and useful adjacent propositions, exact liquid SKU checks. Own its corresponding three files only.

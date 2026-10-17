@@ -6,7 +6,7 @@
 
 Commercial and formula tables are separated below so availability, consumer claims and established effects cannot be mistaken for one another. All benefit and timing wording is **brand positioning**, not an endorsement. “Sold” means offered for sale or supported by dated retail evidence; no purchase was made. Prices are USD per entire can/bottle, before tax/shipping unless noted. Unknown never means zero. Current stock, formula and price may vary. Nominal ml are used where verified; US fluid-ounce conversions are approximate.
 
-The [full CSV](data/product-landscape.csv) adds detailed source IDs, pack-price basis, ingredient/serving caveats and uncertainties. Publication dates and limitations are in the [source register](sources.csv). See the [analysis and shortlist](report.md), [taxonomy](report.md#taxonomy-classify-the-job-then-the-active-approach), and [evidence assessment](supporting/eu-czech-and-evidence.md).
+The [full CSV](data/product-landscape.csv) adds detailed source IDs, pack-price basis, ingredient/serving caveats and uncertainties. Publication dates and limitations are in the [source register](sources.csv). See the [analysis and benchmark comparisons](report.md), [taxonomy](report.md#taxonomy-classify-the-job-then-the-active-approach), and [evidence assessment](supporting/eu-czech-and-evidence.md).
 
 ## Focus, cognitive positioning and alertness/energy
 

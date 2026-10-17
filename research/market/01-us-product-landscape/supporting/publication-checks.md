@@ -4,7 +4,7 @@ Prepared **17 October 2026** by the lead integrator. This records quality-contro
 
 ## Evidence review
 
-Three complementary research agents independently covered focus/energy, relaxation/sleep/CBD, and secondary categories. The lead covered EU/Czech transfer and integrated the result. The secondary-category agent then reviewed other workstreams and the integrated science/regulatory conclusions; the relaxation/sleep/CBD agent reviewed the secondary dataset; the focus/energy agent reviewed category balance and recommendation logic. See [review and resolutions](independent-review.md) and [secondary review and resolutions](secondary-independent-review.md).
+Three complementary research agents independently covered focus/energy, relaxation/sleep/CBD, and secondary categories. The lead covered EU/Czech transfer and integrated the result. The secondary-category agent then reviewed other workstreams and the integrated science/regulatory conclusions; the relaxation/sleep/CBD agent reviewed the secondary dataset; the focus/energy agent reviewed category balance and evidence interpretation. See [review and resolutions](independent-review.md) and [secondary review and resolutions](secondary-independent-review.md).
 
 Accepted corrections include the unverified poppi flavor date, unreproduced CSE promotion, OLIPOP caffeine uncertainty, magnesium UL scope, the liquid delivery in the 2025 lion's mane study, Magic Mind FREE wording, and approximate Red Bull volume conversion. The final output preserves the Beyond energy preorder, VYBES CBD withdrawal, Neutonic formula conflict and source-specific commercial limitations.
 
@@ -22,6 +22,10 @@ Pivotal sources were independently reopened, including exact Neutonic, VYBES, BR
 
 ## Publishing method
 
-The lead resolved the repository through its existing remote and refreshed GitHub state immediately before publishing. The repository was empty at both initial inspection and pre-publication refresh; no existing or concurrent research was replaced. The requested folder is used exactly, with root and research indexes added. No repository visibility change or force push is part of the workflow.
+The lead resolved the repository through its existing remote and refreshed GitHub state immediately before publishing. For the initial publication, the repository was empty at both inspection and pre-publication refresh; no existing research was replaced. The research-only revision preserves unrelated concurrent work and retains the original evidence cut-off. The requested folder is used exactly, with root and research indexes added. No repository visibility change or force push is part of the workflow.
 
 The delivered Git commit and remote file verification are reported in the final response. This document deliberately does not embed its own commit hash, which would require another commit and create a self-reference problem.
+
+## Research-only revision checks
+
+The opportunity-ranking dataset and validation/outsourcing plan were removed. The main report, category notes, evidence memo and indexes were revised to remove prescriptive advice. The 31 product records and 141-source register are unchanged. Relative links and references to removed files were rechecked; unrelated research was excluded from the revision commit.
