@@ -2,7 +2,7 @@
 
 Timestamped research and creative exploration. Recommendations are hypotheses, not validated demand or launch decisions.
 
-- **2026-10-17T13:14:01+02:00 · Europe/Prague** — [20 English-based and coined beverage brand ideas](2026-10-17_13-14-01_english-beverage-brand-ideas/report.md): six coined constructions and fourteen English word combinations, with brand stories, taglines, visual directions, pronunciation and tradeoffs. [Screening and domain checks](2026-10-17_13-14-01_english-beverage-brand-ideas/screening.md).
+- **2026-10-17T13:20:25+02:00 · Europe/Prague** — [20 research-grounded beverage brand ideas](2026-10-17_13-20-25_research-grounded-brand-ideas/report.md): English and abstract names tied to the customer, commercial, sensory and naming research. Three leading directions: Along, Dayward and Ovelo. Includes concrete drink executions, pronunciation and tradeoffs. [Screening and domain checks](2026-10-17_13-20-25_research-grounded-brand-ideas/screening.md).
 
 - **2026-10-17T10:56:22+02:00 · Europe/Prague** — [Claim-led ingredient research](2026-10-17_10-56-22_claim-led-ingredient-research/report.md): 47 screened entries, 16 detailed dossiers, 48 human-study records and six qualified product directions; caffeine alternatives, calm/social evidence, EU/Czech gates and RTD feasibility. [Ingredient matrix](2026-10-17_10-56-22_claim-led-ingredient-research/ingredient-matrix.csv).
 
