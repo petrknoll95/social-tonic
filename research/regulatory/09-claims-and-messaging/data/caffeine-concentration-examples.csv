@@ -1,0 +1,9 @@
+caffeine-mg,pack-ml,mg-per-100ml-rounded,mg-per-litre-rounded,exceeds-150mg-per-litre,exception-note,source-ids
+40,250,16.0000,160.0000,yes,Check actual coffee/tea base and name exception; not a claim permission,CN08
+40,330,12.1212,121.2121,no,Check actual coffee/tea base and name exception; not a claim permission,CN08
+60,250,24.0000,240.0000,yes,Check actual coffee/tea base and name exception; not a claim permission,CN08
+75,250,30.0000,300.0000,yes,Check actual coffee/tea base and name exception; not a claim permission,CN08
+75,330,22.7273,227.2727,yes,Check actual coffee/tea base and name exception; not a claim permission,CN08
+80,330,24.2424,242.4242,yes,Check actual coffee/tea base and name exception; not a claim permission,CN08
+37.5,250,15.0000,150.0000,no,Check actual coffee/tea base and name exception; not a claim permission,CN08
+49.5,330,15.0000,150.0000,no,Check actual coffee/tea base and name exception; not a claim permission,CN08

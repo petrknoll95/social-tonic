@@ -1,0 +1,8 @@
+example,calculation,result,unit,interpretation,source-ids
+low-sugars-250ml,2.5*250/100,6.25,g total sugars maximum,Liquid concentration controls; not a target,LM02;LM04
+low-sugars-330ml,2.5*330/100,8.25,g total sugars maximum,Liquid concentration controls; not a target,LM02;LM04
+sugars-free-250ml,0.5*250/100,1.25,g total sugars maximum,Not absolute chemical absence,LM02;LM04
+sugars-free-330ml,0.5*330/100,1.65,g total sugars maximum,Not absolute chemical absence,LM02;LM04
+fibre-energy-example,3/30*100,10.0,g fibre/100kcal,Numerically high fibre; verify EU energy/fibre values; not gut claim,CS14
+carbohydrate-recovery-70kg,4*70,280,g carbohydrate total from all sources,Specific exercise/time conditions; not one-can target,CS13
+cbd-provisional-70kg,0.0275*70,1.9250,mg/day,Only qualifying supplement safety context; not beverage safe dose,CS04

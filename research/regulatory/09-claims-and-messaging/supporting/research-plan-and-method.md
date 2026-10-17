@@ -1,6 +1,6 @@
 # Research plan and method
 
-Research cutoff and access date: **17 October 2026**. Geography: EU law, with Czech enforcement and Czech launch implications distinguished. Status: research in progress; final review and publication record will be added separately.
+Research cutoff and access date: **17 October 2026**. Geography: EU law, with Czech enforcement and Czech launch implications distinguished. Status: completed research and independent review; see the [review and publication record](review-resolutions-and-publication-checks.md).
 
 ## Repository review and mapping
 
@@ -15,7 +15,7 @@ Useful inherited evidence: exact RTD SKUs and recent US events; distinction betw
 3. **CBD, sleep and secondary claims agent:** separate CBD gates; melatonin, water, carbohydrate-electrolytes, recovery, protein and gut claims. Owns `cbd-sleep-and-secondary` supporting files only.
 4. **Lead:** current US exact-SKU messaging examples, nutrition/marketing framework, numerical integration, matrix, report, message hierarchy, legal-review checklist, shared index and Git publishing.
 
-After initial research, agents will independently cross-review integrated conclusions outside their primary workstream. The lead will resolve disagreements against primary sources, record remaining uncertainty and publish one coherent outcome. No agent may edit shared indexes or publish.
+After initial research, agents independently cross-reviewed integrated conclusions outside their primary workstream. The lead resolved disagreements against primary sources, recorded remaining uncertainty and prepared one coherent outcome for publication. No agent may edit shared indexes or publish.
 
 ## Evidence protocol
 
