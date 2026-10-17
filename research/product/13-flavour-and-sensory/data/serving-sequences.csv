@@ -1,0 +1,5 @@
+sequence_id,position_1,position_2,position_3,position_4,planned_n_in_48_person_pilot
+1,A,B,D,C,12
+2,B,C,A,D,12
+3,C,D,B,A,12
+4,D,A,C,B,12
