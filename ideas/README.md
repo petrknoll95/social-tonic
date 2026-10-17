@@ -2,6 +2,8 @@
 
 Timestamped research and creative exploration. Recommendations are hypotheses, not validated demand or launch decisions.
 
+- **2026-10-17T20:30:15+02:00 · Europe/Prague** — [The Socialite direction](2026-10-17_20-30-15_socialite-direction/report.md): a focused shift toward charm, social identity and a little glamour. Three creative candidates: Reveli, Convo and Jovell. [Initial screening](2026-10-17_20-30-15_socialite-direction/screening.md).
+
 - **2026-10-17T20:22:16+02:00 · Europe/Prague** — [40 grounded names and mood vocabulary](2026-10-17_20-22-16_forty-grounded-brand-names/report.md): 16 single-word options and 24 natural English phrases, developed around ease, warmth, brightness and conviviality. [Initial screening](2026-10-17_20-22-16_forty-grounded-brand-names/screening.md).
 
 - **2026-10-17T13:27:01+02:00 · Europe/Prague** — [20 grounded but creative beverage names](2026-10-17_13-27-01_grounded-beverage-names/report.md): familiar English names tied to drinking, taste and ordinary occasions. Leading directions: Nice Pour, Good Spell and Little Break. [Initial screening](2026-10-17_13-27-01_grounded-beverage-names/screening.md).
