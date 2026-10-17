@@ -2,4 +2,6 @@
 
 Timestamped research and creative exploration. Recommendations are hypotheses, not validated demand or launch decisions.
 
+- **2026-10-17T10:56:22+02:00 · Europe/Prague** — [Claim-led ingredient research](2026-10-17_10-56-22_claim-led-ingredient-research/report.md): 47 screened entries, 16 detailed dossiers, 48 human-study records and six qualified product directions; caffeine alternatives, calm/social evidence, EU/Czech gates and RTD feasibility. [Ingredient matrix](2026-10-17_10-56-22_claim-led-ingredient-research/ingredient-matrix.csv).
+
 - **2026-10-17T10:38:12+02:00 · Europe/Prague** — [Six new drink opportunities](2026-10-17_10-38-12_new-drink-opportunities/report.md): 18 explored directions, six occasion-led concepts, three research priorities, global precedents, adversarial review and validation plans. [Sources](2026-10-17_10-38-12_new-drink-opportunities/sources.md).
