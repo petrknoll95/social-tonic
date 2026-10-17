@@ -1,0 +1,6 @@
+geo,population,under18,unknown_age,adult18plus,reference_date,dataset_updated,source_url
+CZ,10909500,2070933,0,8838567,2025-01-01,2026-09-25T23:00:00+0200,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_pjan?lang=EN&geo=CZ&sex=T&time=2025
+AT,9197213,1580505,0,7616708,2025-01-01,2026-09-25T23:00:00+0200,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_pjan?lang=EN&geo=AT&sex=T&time=2025
+DE,83577140,13975042,0,69602098,2025-01-01,2026-09-25T23:00:00+0200,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_pjan?lang=EN&geo=DE&sex=T&time=2025
+PL,36497495,6584469,0,29913026,2025-01-01,2026-09-25T23:00:00+0200,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_pjan?lang=EN&geo=PL&sex=T&time=2025
+NL,18044027,3293205,0,14750822,2025-01-01,2026-09-25T23:00:00+0200,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_pjan?lang=EN&geo=NL&sex=T&time=2025
