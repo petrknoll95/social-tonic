@@ -1,0 +1,4 @@
+scenario,net_receipts_czk,cans_per_order,landed_cost_per_can_czk,outer_pack_czk,pick_pack_czk,net_delivery_cost_czk,payment_cost_czk,first_order_promo_refund_reserve_czk,first_order_contribution_czk,repeat_order_contribution_czk,repeat_buyer_fraction_assumed,repeat_orders_per_repeater_assumed,horizon_days,expected_contribution_before_acquisition_czk,cash_buffer_fraction_assumed,illustrative_acquisition_ceiling_czk
+low,240,6,18,12,18,35,7,10,50,60,0.2,1,60,62.0,0.3,43.4
+illustrative-middle,240,6,18,12,18,35,7,10,50,60,0.35,1,60,71.0,0.3,49.7
+high,240,6,18,12,18,35,7,10,50,60,0.5,1,60,80.0,0.3,56.0
