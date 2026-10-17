@@ -2,6 +2,8 @@
 
 Timestamped research and creative exploration. Recommendations are hypotheses, not validated demand or launch decisions.
 
+- **2026-10-17T13:27:01+02:00 · Europe/Prague** — [20 grounded but creative beverage names](2026-10-17_13-27-01_grounded-beverage-names/report.md): familiar English names tied to drinking, taste and ordinary occasions. Leading directions: Nice Pour, Good Spell and Little Break. [Initial screening](2026-10-17_13-27-01_grounded-beverage-names/screening.md).
+
 - **2026-10-17T13:24:08+02:00 · Europe/Prague** — [20 more distinctive beverage names](2026-10-17_13-24-08_distinctive-beverage-names/report.md): a new round using successful research brands as references for sound, sensory cues and character. Leading directions: Rindigo, Rattlefruit and Puckerbird. [Initial screening](2026-10-17_13-24-08_distinctive-beverage-names/screening.md).
 
 - **2026-10-17T13:20:25+02:00 · Europe/Prague** — [20 research-grounded beverage brand ideas](2026-10-17_13-20-25_research-grounded-brand-ideas/report.md): English and abstract names tied to the customer, commercial, sensory and naming research. Three leading directions: Along, Dayward and Ovelo. Includes concrete drink executions, pronunciation and tradeoffs. [Screening and domain checks](2026-10-17_13-20-25_research-grounded-brand-ideas/screening.md).
