@@ -1,6 +1,6 @@
 # Independent evidence and acquisition-plan review
 
-**Review date:** 17 October 2026. **Status:** initial review protocol; integrated draft audit pending. This reviewer is separate from the benchmark and Czech/EU-language workstreams. No interviews, campaigns, sales, supplier quotations or customer results were produced by this review.
+**Review date:** 17 October 2026. **Status:** completed independent evidence/method review of the integrated research draft; material findings resolved and verified. This reviewer is separate from the benchmark and Czech/EU-language workstreams. No interviews, campaigns, sales, supplier quotations or customer results were produced by this review.
 
 ## Inputs and independence
 
@@ -40,4 +40,39 @@ The prior topic's proposed 30–35 repeat buyers per 100 is a chosen learning hu
 
 ## Integrated draft audit
 
-Pending the lead's integrated report, acquisition-test table, economics inputs and consolidated sources. This status must be updated before this file is described as a completed independent review.
+The [test protocol](acquisition-test-protocol.md), [test register](../data/acquisition-tests.csv), [economics scenarios](../data/acquisition-economics.csv), [model definitions](../data/README.md), integrated report sections and both research memos were reviewed. The final ten-row integrated US table and topic README were also reviewed. Publishing, remote verification and final link checks remain the lead's responsibility.
+
+| Review item | Independent finding | Status |
+|---|---|---|
+| Economics calculations | Recomputed all three rows from inputs. First contribution CZK50, repeat contribution CZK60, expected 60-day contribution CZK62/71/80 and buffered ceiling CZK43.40/49.70/56.00 all match. These remain unquoted assumptions. | Arithmetic passes. |
+| Budget sums | Recomputed T01–T03 CZK18,600; through T04 CZK26,600; through T05 CZK34,600; T06–T09 originally CZK39,000, revised to CZK36,000 after the referral correction. Caps exclude major production/legal costs as disclosed. | Arithmetic passes. |
+| Contribution boundary | Model is before acquisition; initial protocol definition also subtracts attributable channel costs, which risks double-counting when acquisition is compared/subtracted later. | Resolved and checked: protocol now defines pre-acquisition and post-acquisition contribution separately; acquisition-specific fees, samples and rewards are counted once. |
+| Referral reward economics | Initial CZK100 combined reward exceeds illustrative full 60-day contribution CZK62–80 before setup. A channel should not be run at known negative unit contribution merely to rediscover arithmetic. | Resolved and checked: combined reward reduced to an illustrative CZK40; maximum test cap CZK3,000. Actual contribution and administration must pass an explicit pre-screen; reduce/remove rewards or do not execute if economics fail. |
+| Separate concept panels | Workday and evening panels allow within-panel message screening. Their separate recruitment cannot estimate relative market size or compare population demand between territories. | Resolved and checked: protocol and report prohibit relative market-size inference from separately recruited panels. |
+| Follow-up selection | Random opt-in invitations do not eliminate nonresponse selection. Missing ten valid completed follow-ups must leave T04 comprehension gate inconclusive. | Resolved and checked: random invitations, all nonresponse recorded, ten completed responses required; remaining selection bias disclosed. |
+| Test integrity | Clear inventory gates, no-inventory limits, explicit small-sample heuristics, legitimate no-purchase controls, cohort maturity, attribution/incrementality separation and stockout reporting are present. | Pass as proposed protocol; no executed evidence. |
+| Integrated US table / brand outputs | Ten exact canned/bottled examples distinguish dated innovation from stronger commercial evidence. Three creative territories, the hierarchy and brand brief remain conditional; effects and campaign returns are not invented. | No material scope/inference blocker found in reviewed final draft. |
+
+## Independent source spot checks
+
+Access date for all checks below: **17 October 2026**. These are targeted primary-source checks, not a fresh exhaustive systematic review or an audit of every commercial number.
+
+| Source / geography | What was independently checked | Review conclusion |
+|---|---|---|
+| [Hiyo rewards page](https://drinkhiyo.com/blogs/all/hiyo-rewards-program-guide), US, undated (LE02) | Points/referrals/merch, subscription saving and free-shipping offer. | Observable mechanics supported; no retention lift or economic outcome disclosed. |
+| [CANS office offer](https://cz.cans.com/pages/cans-do-kancelare), Czechia, undated (LE03) | Wholesale offer and fridge loan for subscriptions above ten cartons. | Supports occupied office channel, not account sales or drink effects. |
+| [SEC-filed Monster presentation](https://www.sec.gov/Archives/edgar/data/865752/000110465925117647/tm2532419d1_ex99-1.htm), US, December 2025 (US03) | Bloom row and Nielsen xAOC plus convenience period. | Exact US$82,458,909 for the stated 13-week retail panel matches. No flavor allocation or CAC inference. |
+| [Pure Leaf company release](https://www.prnewswire.com/news-releases/new-pure-leaf-mental-focus-iced-tea-introducing-the-brands-first-functional-iced-tea-line-with-olympic-gold-medalist-jordan-chiles-302754803.html), US, 28 April 2026 (US07) | Peach 12 fl oz can, caffeine statement and Brick giveaway. | Eligible SKU/event and campaign supported; giveaway was not a purchase-conversion test. |
+| [Hiyo founder-episode description](https://heritageradionetwork.org/episode/66-inside-hiyos-500k-case-growth-playbook-with-co-founder-george-youmans-business-of-drinks/), US context, 28 May 2025 (US16) | Annual-case and growth assertions, geo-targeting and event-sampling account. | Reported claims supported as attributed assertions; periods, case definition and causal results remain incomplete. |
+| [CJEU C-386/23](https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?critereEcli=ECLI%3AEU%3AC%3A2025%3A304), EU, 30 April 2025 (CE10) | Indexed official operative judgment text, including psychological/behavioural claims and Article 28(6). | Nuanced on-hold warning supported; neither automatic permission nor a categorical ban on every botanical claim is inferred. |
+| [TikTok healthcare advertising policy](https://ads.tiktok.com/resources/help/article/tiktok-ads-policy-healthcare-pharmaceuticals?lang=en-GB), platform/market-specific, updated September 2026 (CE16) | Ingestible-hemp prohibition and separate topical/cosmetic scope. | Supports holding ingestible CBD paid advertising; does not establish Czech food legality. |
+| [TikTok Spanish branded-content policy](https://www.tiktok.com/legal/page/global/bc-policy/es), platform, indexed text last updated November 2023 (CE20) | Indexed official text includes CBD supplements and alcohol alternatives; direct retrieval failed. | Source date corrected to November 2023. It is historical policy evidence; current Czech-market creator eligibility remains unverified. Hold activation pending verification rather than claim an exhaustive current ban. |
+| [EFSA provisional CBD summary](https://www.efsa.europa.eu/en/news/provisional-safe-level-cannabidiol-novel-food), EU, 9 February 2026 (CE24) | Numerical level, purity/non-nano supplement restrictions and population gaps. | Narrow conditions accurately retained; no RTD dose or efficacy/authorization conclusion. |
+| [EFSA synthetic-CBD opinion](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10154), EU, 18 September 2026, amended 21 September (CE25) | Full primary opinion: specific synthetic CBD, MCT supplement use, maximum daily amount, over-25 target and medication caveat. | Correctly separated from beverage permission and efficacy. |
+| [Narayan et al. primary trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC11063694/), Australian insomnia sample, 1 May 2024 issue (CE28, PMC alternate) | Indexed primary full text/abstract after direct PubMed/PMC challenge: 30 participants, two-week randomized phase, sublingual 150 mg nightly. | Mostly null sleep findings with secondary signals accurately described. Dose, route, population and product matrix do not transfer to a low-dose RTD. |
+
+The final consolidated source register contained 59 unique source IDs with access dates and HTTPS URLs. The PMC alternate was incorporated into CE28 and the November 2023 policy date into CE20. Minor register title/stale-limitation cleanup was sent to the lead; it does not change the conclusions. The language memo's alternate 330 ml/CZK7,200 research examples are explicitly superseded by the integrated 250 ml/T01–T03 protocol, avoiding accidental budget/format aggregation.
+
+## Final disposition and residual limits
+
+**Suitable to publish as desk research and a proposed validation plan after the lead's final publication checks. No unresolved material evidence or economics blocker was identified in this review.** Substantive corrections above have been verified; this is not approval to run a campaign or sell a product. Lack of representative Czech comprehension research, exact product effects, paid retention, causal channel data and quotes remains an evidence gap, not a reason to fill the report with invented precision. This review does not certify legal compliance, product safety, supplier capability or profitable acquisition.

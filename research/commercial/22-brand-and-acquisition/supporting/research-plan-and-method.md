@@ -1,6 +1,6 @@
 # Research plan and method
 
-Date/cut-off: 17 October 2026. Status: research in progress; no fieldwork, outreach, purchases or campaigns authorized or performed.
+Date/cut-off: 17 October 2026. Status: desk research integrated; independent review and publication checks recorded separately; no fieldwork, outreach, purchases or campaigns authorized or performed.
 
 ## Repository review and mapping
 
@@ -24,3 +24,9 @@ Only finished RTD liquids in cans/bottles qualify, including verified RTD coffee
 Use direct current web sources with dates and geography. Label observed facts, company claims, analyst inference, planning assumptions and unknowns. Revenue must be attributable to the eligible line; retail reach, funding, followers, CTR and lead counts do not establish sales, repeat or efficacy. Press releases document activity, not causal returns. Tests are proposals with predeclared decision rules, not invented results or industry CAC benchmarks. The content-strategy skill informs use-case-first content and mapping messages to purchase stages; it supplies no market evidence.
 
 Check dates against the client cut-off, re-open material sources, resolve contradictions, validate CSVs and arithmetic, check relative links, obtain independent review, refresh the remote, commit only authorized research files, push without force and verify exact files remotely. A PR is used if required by protection. No change to visibility.
+
+## Integration and concurrent-state reconciliation
+
+During research, other work advanced main beyond the initial d6124de, including range/format and sensory topics. Their product brief/protocol were read and cross-linked before publishing. The current index is reread before a narrow insertion; no existing topic row is replaced. Some early topic22 drafts became tracked during concurrent commits; the final publication contains only this topic and its index update and preserves other work. No repository duplication, visibility change or force push is used.
+
+Independent review caught an acquisition-cost definition that risked double counting, a referral reward above illustrative contribution, missing cross-panel comparison limits and follow-up nonresponse ambiguity. The lead split pre/post acquisition contribution, reduced the proposed combined referral reward to CZK40 with an actual-margin pre-screen, corrected later test allowances to CZK36,000 and added explicit inference/nonresponse rules. The local workstream's alternate interview/pack assumptions are labeled superseded by the integrated plan. Ingredient/version conflicts in Neutonic, Sly and VYBES are retained rather than silently reconciled.
