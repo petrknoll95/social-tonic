@@ -1,0 +1,232 @@
+path,line_count,matched_topics,status
+research/README.md,20,economics;claims,existing repository research
+research/market/06-demand-and-country-selection/report.md,198,stability;pricing;economics;consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/README.md,34,economics;consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/sources.csv,115,consumer;claims,existing repository research
+research/market/01-us-product-landscape/report.md,97,stability;pricing;economics;consumer;claims,existing repository research
+research/market/01-us-product-landscape/landscape.md,127,pricing;consumer;claims,existing repository research
+research/market/01-us-product-landscape/README.md,39,pricing;economics;consumer;claims,existing repository research
+research/market/01-us-product-landscape/sources.csv,142,pricing;economics;consumer;claims,existing repository research
+research/market/02-commercial-traction/report.md,171,pricing;economics;consumer;claims,existing repository research
+research/market/02-commercial-traction/README.md,38,consumer;claims,existing repository research
+research/market/02-commercial-traction/sources.csv,116,pricing;economics;consumer;claims,existing repository research
+research/market/04-eu-czech-competition/competitor-matrix.md,189,shelf life;pricing;consumer;claims,existing repository research
+research/market/04-eu-czech-competition/report.md,114,stability;economics;consumer;claims,existing repository research
+research/market/04-eu-czech-competition/README.md,42,claims,existing repository research
+research/market/04-eu-czech-competition/sources.csv,138,claims,existing repository research
+research/market/26-trends-and-industry-intelligence/report.md,301,shelf life;stability;pricing;economics;consumer;claims,existing repository research
+research/market/26-trends-and-industry-intelligence/README.md,29,,existing repository research
+research/market/26-trends-and-industry-intelligence/sources.csv,165,pricing;economics;consumer;claims,existing repository research
+research/market/26-trends-and-industry-intelligence/supporting/watchlist.md,57,shelf life;consumer;claims,existing repository research
+research/market/26-trends-and-industry-intelligence/supporting/methods-and-review.md,64,consumer;claims,existing repository research
+research/market/26-trends-and-industry-intelligence/supporting/source-map.md,49,economics;consumer;claims,existing repository research
+research/market/26-trends-and-industry-intelligence/data/README.md,14,,existing repository research
+research/market/26-trends-and-industry-intelligence/data/signals.csv,45,stability;pricing;economics;consumer;claims,existing repository research
+research/market/04-eu-czech-competition/supporting/regulatory-and-evidence-update.md,37,stability;consumer;claims,existing repository research
+research/market/04-eu-czech-competition/supporting/western-europe-sources.csv,47,claims,existing repository research
+research/market/04-eu-czech-competition/supporting/independent-review-czech-agent.md,32,economics;consumer,existing repository research
+research/market/04-eu-czech-competition/supporting/research-protocol.md,53,consumer,existing repository research
+research/market/04-eu-czech-competition/supporting/independent-review-central-agent.md,39,claims,existing repository research
+research/market/04-eu-czech-competition/supporting/independent-review-western-agent.md,31,claims,existing repository research
+research/market/04-eu-czech-competition/supporting/us-benchmark-sources.csv,6,claims,existing repository research
+research/market/04-eu-czech-competition/supporting/western-europe-research.md,66,shelf life;stability;pricing;consumer;claims,existing repository research
+research/market/04-eu-czech-competition/supporting/validation-protocol.md,47,shelf life;stability;economics;consumer;claims,existing repository research
+research/market/04-eu-czech-competition/supporting/czechia-sources.csv,30,claims,existing repository research
+research/market/04-eu-czech-competition/supporting/central-eu-research.md,88,shelf life;consumer;claims,existing repository research
+research/market/04-eu-czech-competition/supporting/lead-sources.csv,20,claims,existing repository research
+research/market/04-eu-czech-competition/supporting/publication-checks.md,37,consumer,existing repository research
+research/market/04-eu-czech-competition/supporting/central-eu-sources.csv,39,claims,existing repository research
+research/market/04-eu-czech-competition/supporting/czechia-research.md,62,stability;consumer;claims,existing repository research
+research/market/04-eu-czech-competition/data/competitor-matrix.csv,53,shelf life;pricing;consumer;claims,existing repository research
+research/market/04-eu-czech-competition/data/README.md,39,claims,existing repository research
+research/market/04-eu-czech-competition/data/western-europe-competitors.csv,16,shelf life;pricing;claims,existing repository research
+research/market/04-eu-czech-competition/data/central-eu-competitors.csv,22,claims,existing repository research
+research/market/04-eu-czech-competition/data/czechia-competitors.csv,17,consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/secondary-sources.csv,34,pricing;consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/focus-energy-sources.csv,36,consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/secondary-categories.md,61,shelf life;pricing;economics;consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/research-protocol.md,58,stability;consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/independent-review.md,46,consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/calm-sleep-cbd-sources.csv,37,consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/validation-and-diligence-protocol.md,48,stability;economics;consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/lead-sources.csv,12,economics;consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/publication-checks.md,35,claims,existing repository research
+research/market/02-commercial-traction/supporting/calm-sleep-cbd.md,66,consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/eu-czech-transfer.md,41,stability;economics;consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/focus-energy.md,54,economics;consumer;claims,existing repository research
+research/market/02-commercial-traction/supporting/independent-secondary-review.md,40,,existing repository research
+research/market/02-commercial-traction/data/commercial-metrics.csv,50,consumer,existing repository research
+research/market/02-commercial-traction/data/excluded-business-context.csv,23,consumer,existing repository research
+research/market/02-commercial-traction/data/README.md,37,consumer;claims,existing repository research
+research/market/02-commercial-traction/data/focus-energy-metrics.csv,25,,existing repository research
+research/market/02-commercial-traction/data/secondary-metrics.csv,17,consumer,existing repository research
+research/market/02-commercial-traction/data/calm-sleep-cbd-metrics.csv,32,consumer,existing repository research
+research/market/01-us-product-landscape/supporting/focus-energy-sources.csv,48,consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/secondary-categories.md,39,stability;consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/research-protocol.md,43,consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/independent-review.md,55,consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/relax-sleep-cbd-sources.csv,39,pricing;economics;consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/secondary-categories-sources.csv,29,pricing;consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/eu-czech-and-evidence.md,49,stability;consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/relax-sleep-cbd.md,59,shelf life;stability;economics;consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/eu-evidence-sources.csv,29,consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/publication-checks.md,31,pricing;consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/focus-energy.md,63,economics;consumer;claims,existing repository research
+research/market/01-us-product-landscape/supporting/secondary-independent-review.md,34,pricing;consumer;claims,existing repository research
+research/market/01-us-product-landscape/data/relax-sleep-cbd.csv,12,pricing,existing repository research
+research/market/01-us-product-landscape/data/product-landscape.csv,32,pricing;consumer;claims,existing repository research
+research/market/01-us-product-landscape/data/secondary-categories.csv,9,consumer;claims,existing repository research
+research/market/01-us-product-landscape/data/README.md,37,pricing;claims,existing repository research
+research/market/01-us-product-landscape/data/focus-energy.csv,13,claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/benefits-benchmarks-and-regulatory-gates.md,129,shelf life;stability;economics;consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/czechia-poland-sources.csv,28,consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/benefits-benchmarks-and-regulatory-sources.csv,42,consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/review-resolutions-and-publication-checks.md,30,claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/research-plan-and-method.md,38,consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/austria-germany-netherlands-evidence.md,81,stability;claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/independent-country-model-review.md,40,consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/independent-evidence-review.md,75,consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/independent-model-review.md,84,economics;consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/czechia-poland-evidence.md,83,economics;consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/lead-sources.csv,19,claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/austria-germany-netherlands-sources.csv,29,claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/score-rationale.md,18,consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/supporting/validation-tests.md,26,stability;consumer;claims,existing repository research
+research/market/06-demand-and-country-selection/data/weight-sensitivity.csv,91,,existing repository research
+research/market/06-demand-and-country-selection/data/score-sensitivity.csv,91,,existing repository research
+research/market/06-demand-and-country-selection/data/country-scorecard.csv,6,,existing repository research
+research/market/06-demand-and-country-selection/data/population-context.csv,6,,existing repository research
+research/market/06-demand-and-country-selection/data/demand-scenarios.csv,91,,existing repository research
+research/market/06-demand-and-country-selection/data/README.md,68,economics;consumer,existing repository research
+research/market/06-demand-and-country-selection/data/category-country-scorecard.csv,31,,existing repository research
+research/market/06-demand-and-country-selection/data/sensitivity.csv,25,,existing repository research
+research/market/06-demand-and-country-selection/data/contribution-sensitivity.csv,10,,existing repository research
+research/market/06-demand-and-country-selection/data/spending-context.csv,6,,existing repository research
+research/market/06-demand-and-country-selection/data/country-economics-sensitivity.csv,6,,existing repository research
+research/commercial/22-brand-and-acquisition/report.md,217,shelf life;stability;economics;consumer;claims,existing repository research
+research/commercial/22-brand-and-acquisition/README.md,23,economics;claims,existing repository research
+research/commercial/22-brand-and-acquisition/sources.csv,60,stability;consumer;claims,existing repository research
+research/commercial/22-brand-and-acquisition/supporting/acquisition-test-protocol.md,45,stability;economics;consumer;claims,existing repository research
+research/commercial/22-brand-and-acquisition/supporting/independent-review.md,78,economics;consumer;claims,existing repository research
+research/commercial/22-brand-and-acquisition/supporting/research-plan-and-method.md,32,economics;consumer;claims,existing repository research
+research/commercial/22-brand-and-acquisition/supporting/publication-checks.md,29,economics;consumer;claims,existing repository research
+research/commercial/22-brand-and-acquisition/supporting/czech-eu-language-and-constraints.md,92,stability;consumer;claims,existing repository research
+research/commercial/22-brand-and-acquisition/supporting/us-benchmark-evidence.md,96,economics;consumer;claims,existing repository research
+research/commercial/22-brand-and-acquisition/data/acquisition-tests.csv,10,consumer,existing repository research
+research/commercial/22-brand-and-acquisition/data/acquisition-economics.csv,4,,existing repository research
+research/commercial/22-brand-and-acquisition/data/czech-eu-sources.csv,30,consumer;claims,existing repository research
+research/commercial/22-brand-and-acquisition/data/us-benchmark-sources.csv,25,consumer;claims,existing repository research
+research/commercial/22-brand-and-acquisition/data/README.md,23,pricing;economics;consumer,existing repository research
+research/commercial/22-brand-and-acquisition/data/lead-sources.csv,7,stability;consumer;claims,existing repository research
+research/product/12-range-and-format/report.md,139,shelf life;stability;economics;consumer;claims,existing repository research
+research/product/12-range-and-format/README.md,35,economics;consumer;claims,existing repository research
+research/product/12-range-and-format/product-brief.md,32,shelf life;stability;economics;consumer;claims,existing repository research
+research/product/12-range-and-format/sources.csv,70,economics;consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/flavour-briefs.md,67,shelf life;stability;consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/report.md,98,shelf life;stability;economics;consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/README.md,36,,existing repository research
+research/product/13-flavour-and-sensory/sensory-vocabulary.md,32,consumer,existing repository research
+research/product/13-flavour-and-sensory/sources.csv,70,stability;consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/us-benchmark-rationale.md,43,consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/independent-technical-review.md,39,stability;consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/review-resolutions-and-publication-checks.md,43,consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/ingredient-sources.csv,23,stability;consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/research-plan-and-method.md,38,consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/czech-eu-sources.csv,16,consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/independent-protocol-review.md,32,consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/us-benchmark-sources.csv,28,consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/ingredient-sensory-and-cbd.md,79,shelf life;stability;consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/tasting-scorecard.md,63,claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/independent-evidence-review.md,33,consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/lead-sources.csv,6,consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/czech-eu-sensory-evidence.md,76,consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/supporting/tasting-protocol.md,75,shelf life;consumer;claims,existing repository research
+research/product/13-flavour-and-sensory/data/full-serving-template.csv,1,,existing repository research
+research/product/13-flavour-and-sensory/data/preference-template.csv,1,,existing repository research
+research/product/13-flavour-and-sensory/data/tasting-responses-template.csv,1,,existing repository research
+research/product/13-flavour-and-sensory/data/README.md,29,claims,existing repository research
+research/product/13-flavour-and-sensory/data/ingredient-risk-register.csv,14,stability,existing repository research
+research/product/13-flavour-and-sensory/data/sample-manifest-template.csv,1,,existing repository research
+research/product/13-flavour-and-sensory/data/us-sensory-benchmarks.csv,10,,existing repository research
+research/product/13-flavour-and-sensory/data/serving-sequences.csv,5,,existing repository research
+research/product/12-range-and-format/supporting/packaging-sources.csv,19,claims,existing repository research
+research/product/12-range-and-format/supporting/safety-sources.csv,23,economics;consumer;claims,existing repository research
+research/product/12-range-and-format/supporting/portfolio-benchmarks.md,53,shelf life;stability;economics;claims,existing repository research
+research/product/12-range-and-format/supporting/independent-portfolio-review.md,39,economics,existing repository research
+research/product/12-range-and-format/supporting/safety-and-regulatory-gates.md,101,shelf life;stability;economics;consumer;claims,existing repository research
+research/product/12-range-and-format/supporting/review-and-publication-checks.md,41,consumer;claims,existing repository research
+research/product/12-range-and-format/supporting/research-method-and-plan.md,39,shelf life;economics;consumer,existing repository research
+research/product/12-range-and-format/supporting/packaging-and-operations.md,89,shelf life;stability;pricing;economics;consumer;claims,existing repository research
+research/product/12-range-and-format/supporting/validation-and-rfq-protocol.md,39,stability;claims,existing repository research
+research/product/12-range-and-format/supporting/independent-model-and-brief-review.md,70,economics;consumer;claims,existing repository research
+research/product/12-range-and-format/supporting/independent-evidence-review.md,43,shelf life;consumer;claims,existing repository research
+research/product/12-range-and-format/supporting/lead-sources.csv,6,claims,existing repository research
+research/product/12-range-and-format/supporting/portfolio-sources.csv,25,consumer;claims,existing repository research
+research/product/12-range-and-format/data/dtc-pack-sensitivity.csv,55,,existing repository research
+research/product/12-range-and-format/data/inventory-sensitivity.csv,181,,existing repository research
+research/product/12-range-and-format/data/rtd-benchmarks.csv,12,claims,existing repository research
+research/product/12-range-and-format/data/README.md,37,shelf life;stability;pricing;economics,existing repository research
+research/product/12-range-and-format/data/packaging-options.csv,11,stability;consumer,existing repository research
+research/product/12-range-and-format/data/trade-economics-sensitivity.csv,25,,existing repository research
+research/regulatory/09-claims-and-messaging/claims-matrix.md,83,shelf life;consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/report.md,99,shelf life;stability;consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/README.md,28,claims,existing repository research
+research/regulatory/09-claims-and-messaging/sources.csv,78,consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/caffeine-and-nutrients.md,116,shelf life;consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/review-resolutions-and-publication-checks.md,47,consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/final-legal-review-checklist.md,23,stability;consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/research-plan-and-method.md,32,shelf life;consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/provisional-message-hierarchy.md,77,claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/independent-caffeine-agent-review.md,49,consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/independent-botanical-agent-review.md,56,stability;consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/independent-cbd-agent-review.md,41,consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/caffeine-and-nutrients-sources.csv,23,claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/us-rtd-messaging-benchmarks.md,23,consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/lead-sources.csv,25,claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/botanicals-and-czech-enforcement.md,88,stability;consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/botanicals-and-czech-sources.csv,16,claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/cbd-sleep-and-secondary.md,69,shelf life;stability;consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/supporting/cbd-sleep-and-secondary-sources.csv,17,consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/data/nutrition-and-serving-examples.csv,8,,existing repository research
+research/regulatory/09-claims-and-messaging/data/README.md,19,claims,existing repository research
+research/regulatory/09-claims-and-messaging/data/claims-matrix.csv,45,consumer;claims,existing repository research
+research/regulatory/09-claims-and-messaging/data/caffeine-concentration-examples.csv,9,,existing repository research
+research/regulatory/09-claims-and-messaging/data/nutrient-thresholds.csv,9,,existing repository research
+research/customers/05-segments-and-occasions/report.md,150,shelf life;stability;economics;consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/README.md,34,consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/sources.csv,48,economics;consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/supporting/independent-review.md,61,consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/supporting/methods-and-review.md,54,pricing;consumer,existing repository research
+research/customers/05-segments-and-occasions/supporting/diary-study.md,39,,existing repository research
+research/customers/05-segments-and-occasions/supporting/czech-context-evidence.md,53,consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/supporting/work-focus-evidence.md,81,,existing repository research
+research/customers/05-segments-and-occasions/supporting/cross-evidence-review.md,42,,existing repository research
+research/customers/05-segments-and-occasions/supporting/evening-needs-sources.csv,14,economics;consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/supporting/interview-guide.md,92,consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/supporting/evening-needs-evidence.md,71,stability;economics;consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/supporting/publication-checks.md,21,consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/supporting/work-focus-sources.csv,15,claims,existing repository research
+research/customers/05-segments-and-occasions/supporting/czech-context-sources.csv,12,consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/data/occasion-need-substitute-matrix.csv,13,,existing repository research
+research/customers/05-segments-and-occasions/data/diary-template.csv,1,,existing repository research
+research/customers/05-segments-and-occasions/data/interview-coding-template.csv,1,,existing repository research
+research/customers/05-segments-and-occasions/data/ranked-hypotheses.csv,11,claims,existing repository research
+research/customers/05-segments-and-occasions/data/README.md,21,,existing repository research
+research/customers/05-segments-and-occasions/data/czech-context-voices.csv,16,consumer;claims,existing repository research
+research/customers/05-segments-and-occasions/data/work-focus-voices.csv,13,,existing repository research
+research/customers/05-segments-and-occasions/data/evening-needs-voices.csv,13,,existing repository research
+ideas/README.md,5,,existing repository research
+ideas/2026-10-17_10-38-12_new-drink-opportunities/sources.md,426,shelf life;economics;consumer;claims,existing repository research
+ideas/2026-10-17_10-38-12_new-drink-opportunities/report.md,427,shelf life;stability;pricing;economics;consumer;claims,existing repository research
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/claim-experience-map.md,24,shelf life;consumer;claims,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/research-scope.md,18,creatine;claims,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/repository-inventory.csv,204,creatine;claims,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/workstreams/energy-findings.md,100,creatine;stability;consumer;claims,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/workstreams/energy-sources.csv,29,creatine;stability;claims,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/workstreams/energy-studies.csv,20,creatine;consumer,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/workstreams/regulatory-sources.csv,47,creatine;claims,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/workstreams/calm-sources.csv,33,claims,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/workstreams/lead-sources.csv,30,claims,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/workstreams/lead-studies.csv,6,,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/workstreams/regulatory-findings.md,104,creatine;shelf life;stability;consumer;claims,concurrent uncommitted; lead only
+ideas/2026-10-17_10-56-22_claim-led-ingredient-research/supporting/workstreams/regulatory-matrix.csv,17,creatine;stability;claims,concurrent uncommitted; lead only
